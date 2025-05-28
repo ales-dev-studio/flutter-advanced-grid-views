@@ -1,4 +1,4 @@
-# **✨ Flutter GridView Examples: Simple & Advanced Implementations**  
+# ** Flutter GridView Examples: Simple & Advanced Implementations**  
 
 
 ## Demo image
@@ -10,17 +10,17 @@ A complete guide to building **responsive, animated GridViews** in Flutter—fro
 
 ## **📱 Features**  
 - **Two Implementations**:  
-  - 🟢 **Simple GridView**: Built with Flutter’s native `GridView.builder`.  
-  - 🔥 **Advanced GridView**: Dynamic image sizing, async loading, and custom actions (like/download/share).  
+  - **Simple GridView**: Built with Flutter’s native `GridView.builder`.  
+  - **Advanced GridView**: Dynamic image sizing, async loading, and custom actions (like/download/share).  
 - **Animations**: Smooth entry effects using `animation_do`.  
 - **Performance**: Optimized network image loading with placeholder support.  
 - **Modular Code**: Reusable widgets (e.g., custom `IconButton`).  
 
-## **🛠️ Packages Used**  
+## **Packages Used**  
 - [`flutter_staggered_grid_view`](https://pub.dev/packages/flutter_staggered_grid_view)  
 - [`animation_do`](https://pub.dev/packages/animation_do)  
 
-## **🚀 Quick Start**  
+## **Quick Start**  
 1. Clone the repo:  
    ```bash  
    git clone https://github.com/ales-dev-studio/flutter-advanced-grid-views.git 
@@ -34,7 +34,7 @@ A complete guide to building **responsive, animated GridViews** in Flutter—fro
    flutter run  
    ```  
 
-## **💡 Use Cases**  
+## **Use Cases**  
 - E-commerce product grids.  
 - Social media feeds (Instagram-like).  
 - Gallery/portfolio apps.  
