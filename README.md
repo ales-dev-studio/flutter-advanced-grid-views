@@ -1,4 +1,4 @@
-# ** Flutter GridView Examples: Simple & Advanced Implementations**  
+# Flutter GridView Examples: Simple & Advanced Implementations
 
 
 ## Demo image
