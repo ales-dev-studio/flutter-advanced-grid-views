@@ -6,9 +6,10 @@
 ![Demo](https://raw.githubusercontent.com/ales-dev-studio/flutter-advanced-grid-views/refs/heads/main/assets/images/Demo.jpg)
 
 
-A complete guide to building **responsive, animated GridViews** in Flutter—from basic layouts to Pinterest-style staggered grids with interactive actions. Perfect for e-commerce, galleries, and social media apps!  
+A complete guide to building **GridViews** in Flutter—from basic layouts to Pinterest-style staggered grids with interactive actions.
+Perfect for e-commerce, galleries, and social media apps!  
 
-## **📱 Features**  
+## **Features**  
 - **Two Implementations**:  
   - **Simple GridView**: Built with Flutter’s native `GridView.builder`.  
   - **Advanced GridView**: Dynamic image sizing, async loading, and custom actions (like/download/share).  
