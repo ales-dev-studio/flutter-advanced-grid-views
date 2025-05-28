@@ -3,7 +3,7 @@
 
 ## Demo image
 
-![Untitled](https://raw.githubusercontent.com/ales-dev-studio/flutter-advanced-grid-views/blob/main/assets/images/Demo.jpg)
+![Demo](https://raw.githubusercontent.com/ales-dev-studio/flutter-advanced-grid-views/refs/heads/main/assets/images/Demo.jpg)
 
 
 A complete guide to building **responsive, animated GridViews** in Flutter—from basic layouts to Pinterest-style staggered grids with interactive actions. Perfect for e-commerce, galleries, and social media apps!  
@@ -23,7 +23,7 @@ A complete guide to building **responsive, animated GridViews** in Flutter—fro
 ## **🚀 Quick Start**  
 1. Clone the repo:  
    ```bash  
-   git clone https://github.com/your-username/flutter-gridview-demo.git  
+   git clone https://github.com/ales-dev-studio/flutter-advanced-grid-views.git 
    ```  
 2. Install dependencies:  
    ```bash  
